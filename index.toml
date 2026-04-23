@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "blocktopia-packwiz-bootstrap-fixed-v2.ps1"
-hash = "1d105311f0bf78f5b3626167c8e27a35c3f94f623e10cd6f9e3c01314e2cb4d6"
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "f131905d113ba9dd127abf3c9f897aaf4ecf59657c415752533893d44cb584df"
 metafile = true
