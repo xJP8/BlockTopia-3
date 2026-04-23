@@ -1,0 +1,13 @@
+name = "Physics Mod"
+filename = "physics-mod-3.0.18-mc-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c0b9b4e9f54295a0aaf4e98ded29980d809c6e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7781938
+project-id = 442735

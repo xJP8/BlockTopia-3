@@ -1,0 +1,13 @@
+name = "Tiny Item Animations"
+filename = "tia-1.20-1.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd1eac323a351355d21ddf720fb0503020c77928"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7142084
+project-id = 1360659

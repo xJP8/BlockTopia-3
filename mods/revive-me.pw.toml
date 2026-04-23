@@ -1,0 +1,13 @@
+name = "Revive Me! - Player Revival Mod"
+filename = "revive_me-1.20.1-4.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8e2f01372a011f2baff45c5077fcf9e54c084e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7863847
+project-id = 676140
