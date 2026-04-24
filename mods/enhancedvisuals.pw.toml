@@ -3,11 +3,11 @@ filename = "EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "780caf39421ccfc495d14cb287856ced97c32985"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KjL0jE2w/versions/m3cjYtkA/EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar"
+hash-format = "sha512"
+hash = "d3e6fca63651f262b07a75053453beb8ccf963f096a8aaffef13cc16a27666e3b31bb4eab36282c27b3c7586b030cb53f74b7534f756c26d5f2b9b745cc39941"
 
 [update]
-[update.curseforge]
-file-id = 6192498
-project-id = 255389
+[update.modrinth]
+mod-id = "KjL0jE2w"
+version = "m3cjYtkA"

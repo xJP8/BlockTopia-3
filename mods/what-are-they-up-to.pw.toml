@@ -3,11 +3,11 @@ filename = "watut-forge-1.20.1-1.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d376debf1f96f37dbedf56919baeb7da2dcef9ab"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AtB5mHky/versions/GpiXMxvP/watut-forge-1.20.1-1.2.3.jar"
+hash-format = "sha512"
+hash = "80be5011a6f3a933bf87cc1815febde79e915a9fb3d2ff304bfda199ad8a09e5acb32b91dc6a56db4765209c83ca977870b11bc7dbfeb7c4efa0fda6cc370386"
 
 [update]
-[update.curseforge]
-file-id = 6315241
-project-id = 945479
+[update.modrinth]
+mod-id = "AtB5mHky"
+version = "GpiXMxvP"

@@ -3,11 +3,11 @@ filename = "invocore-1.20.1-4.3.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "46fb3aca88b35ed229a6f272205452cac3f269f6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/J07on8wS/versions/DxrFmZDF/invocore-1.20.1-4.3.2.jar"
+hash-format = "sha512"
+hash = "46d5159c40a8063844b28ad4296aab4dc27abd6ee10edd429fbfb12419ecaadad2a69f0937784884d5122144322bedaaf78959b5190708319798d8e4dca6ab75"
 
 [update]
-[update.curseforge]
-file-id = 6773723
-project-id = 693881
+[update.modrinth]
+mod-id = "J07on8wS"
+version = "DxrFmZDF"

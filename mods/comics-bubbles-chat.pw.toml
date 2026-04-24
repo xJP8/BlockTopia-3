@@ -1,13 +1,13 @@
 name = "Comics Bubbles Chat"
-filename = "[1.20-1.20.1] Comics Bubbles Chat-1.3.4.jar"
+filename = "[1.20-1.20.1]+Comics+Bubbles+Chat-1.3.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "704023d1816fd4a22b5c1176b73221e6e1caaede"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/th4Wn63R/versions/8u4bYsvz/%5B1.20-1.20.1%5D%2BComics%2BBubbles%2BChat-1.3.4.jar"
+hash-format = "sha512"
+hash = "c7e78c99c6087b0eff52686b52965117ade2bee693bd4f2dec900cf007b458de96a102b63e4bdebf0ced87a4d72cc77a4f1c4b7d80f24944488238225cebda0e"
 
 [update]
-[update.curseforge]
-file-id = 5007355
-project-id = 518619
+[update.modrinth]
+mod-id = "th4Wn63R"
+version = "8u4bYsvz"

@@ -3,11 +3,11 @@ filename = "collective-1.20.1-8.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "32618db0efc36b45dbcdcdaa9768c507c4264f66"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/27IPdmJc/collective-1.20.1-8.20.jar"
+hash-format = "sha512"
+hash = "87bb6daae9f27ada34298d79a42475bee03877af6a6ddf38d11f371d369de32955d7a7d8b894bd98069e7c4cba1be258728eea07ee5ba3d59a564d6586865f3b"
 
 [update]
-[update.curseforge]
-file-id = 7925029
-project-id = 342584
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "27IPdmJc"

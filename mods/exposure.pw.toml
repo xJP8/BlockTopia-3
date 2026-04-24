@@ -1,13 +1,13 @@
 name = "Exposure"
-filename = "exposure-1.20.1-1.7.16-forge.jar"
+filename = "exposure-forge-1.20.1-1.9.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b1ec92eeafdc97e88e0baacd5d89f4c1f89a4bbc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hB899VmG/versions/cnV9jGtL/exposure-forge-1.20.1-1.9.20.jar"
+hash-format = "sha512"
+hash = "f8f761f087b8d36fd6ac8a5830c31ba01799e5784f0d6736a69c50daef6ae2cc0b99425fa64be2481907371202e541c9aaf995591466d3e5caa72ccf46dd9ebc"
 
 [update]
-[update.curseforge]
-file-id = 6655718
-project-id = 871755
+[update.modrinth]
+mod-id = "hB899VmG"
+version = "cnV9jGtL"
