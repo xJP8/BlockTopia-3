@@ -141,16 +141,19 @@ hash = "0cce50b83ee59fa9799f530c4b9e37961326752ad0e5d8b54e25625843c46edf"
 metafile = true
 
 [[files]]
-file = "mods/easy_npc-forge-1.20.1-6.12.0.jar"
-hash = "3b1240b587f86a9a985d486c5f1f86432cd9706ae1a72c1ce6beaf8bfb200f40"
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "d56219f0c85ce75a00d017b1737a8e7d57cd625c0787badf432a67995c3cd752"
+metafile = true
 
 [[files]]
-file = "mods/easy_npc_bundle-forge-1.20.1-6.12.0.jar"
-hash = "410688034a803ccf5475fa7c11096454cad3eb5cfe57e58e58c2c96f90b63e3c"
+file = "mods/easy-npc-core.pw.toml"
+hash = "132ab527e47d287d066f9c866b1e99ca35138576d04de649b3a37d1955b87cda"
+metafile = true
 
 [[files]]
-file = "mods/easy_npc_config_ui-forge-1.20.1-6.12.0.jar"
-hash = "d42ccc5e3a466dd2c3d30a6f7b5b631d9d65c73d773c136de516a40992c393ad"
+file = "mods/easy-npc.pw.toml"
+hash = "699d34485829ca99a0ec9f8c2f225136504eef97e3fd32078c0f5325603eede1"
+metafile = true
 
 [[files]]
 file = "mods/eating-animation-forge.pw.toml"
@@ -374,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
-hash = "25a7f3e2027095f0c0ea8d500ed15b2ab58374b5645b248fe28cec570de5ad74"
+hash = "1922d9b937f4e483f56a36f3f51cb8e436534f1432564974f14a93fae6e4fe6b"
 metafile = true
 
 [[files]]
