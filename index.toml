@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "añadir_mods.bat"
-hash = "7ecc00f484b577eae5b86f401654cf6bba817f37e37df640f4a1995a71dd5559"
-
-[[files]]
-file = "detectar_mods.py"
-hash = "ba8b38ef11318e83c4eff5847923ad3cdadaac350283f71e4d302445e3882e2f"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d3bf7ece2417a62d421c471b32a52d0b08c4509b6d7d34589264cbc06998edc3"
 metafile = true
@@ -644,10 +636,6 @@ hash = "d41ea1366e36f79f1b38efb44920fa9354a929eee070c493bda60b0c5cc2b16a"
 file = "mods/yungs-api.pw.toml"
 hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
-
-[[files]]
-file = "no_encontrados.txt"
-hash = "3043e9b834213df614262a0290d5c847a6dea40bff828d2fad1e96d43928862e"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
