@@ -1,12 +1,12 @@
 name = "BlockTopia 3"
 author = "Pichon_8"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e86ced4ef30d30bb6307ee81d7be7faf32dbae950d564ef8d6fe25f9e322a4f2"
+hash = "f23642921692979b8d45e89629b7062c5b6bd8bf43b8544ad3083e58890623ce"
 
 [versions]
 forge = "47.4.20"

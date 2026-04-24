@@ -373,6 +373,11 @@ hash = "802ba14f15967fa58b0386d49d4b6175d4776715b43dc05c0d6692f14e3a70b0"
 metafile = true
 
 [[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "25a7f3e2027095f0c0ea8d500ed15b2ab58374b5645b248fe28cec570de5ad74"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "7e3070bc2a3b8887294c4212a73f447c87d36faa3418e51336d1b771799266c4"
 metafile = true
@@ -406,3 +411,7 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "0100f1896b5898927e26d915f279d9323d8733add4df93fe2c4f15bbf63c139f"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
