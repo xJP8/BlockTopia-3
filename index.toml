@@ -1,6 +1,122 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/buttons/clasificaciones_hover.png"
+hash = "949d22589a5e55171e11dd8d90018362b71fc3f91d2d8b2ee4d15e0832bece1d"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/clasificaciones_normal.png"
+hash = "fb7ea5abd45678ac84e92c43a0389b10a21d0c1c03fa21be3ddd590131c2bcbd"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/eventos_hover.png"
+hash = "aa582f5f5b89670678ec962c133019fbfbdd12b0f975f9b65b3e202d04193252"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/eventos_normal.png"
+hash = "b1ebbd0f025e58d7d88f7d896929a4c891e1f15c5d7a367350ddf14c72868ce9"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/play_hover.png"
+hash = "4ab2b2d4f18e3e21653491bf9ef7c5f174f30e27a2b7b76bf34ead3cb166c085"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/play_normal.png"
+hash = "f0c013139fd41b898508e98b24ea82ea6698c5b32ac204a58e4e49081e3174de"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/salir_hover.png"
+hash = "bc4a970b6caf3e7a628f1f0bb657c4acf30657a679ef3d5ebde36cb768f44316"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/salir_normal.png"
+hash = "6f6df613dbfcc2572946295ca7138b0684d3eb3a4ee866ce96f38ddcbaf4e7fe"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/settings_hover.png"
+hash = "62e788295c09b16f590b895022a9560dac54e921645986fd02cfe01e4b2d9660"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/settings_normal.png"
+hash = "60b3fe8402e9d09778feab461c00f220ea9fa84fa87cdc0f0229938579526381"
+
+[[files]]
+file = "config/fancymenu/assets/fondo.jpg"
+hash = "25a73862977daa5a23810e8119ae2b98af8eb2f2b44394cd05f2e55957970a09"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "f39c5c849c6818df127bb37e05fda3fa98f1d001942a39b11f9ee93ae2d45392"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
+
+[[files]]
+file = "config/fancymenu/customization/menu_screen.txt"
+hash = "ae5b563376227ca40a19d7ed3550cbba9ba08491a36ef4e451147a27cd610ec3"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/normalized_scroll_screens.json"
+hash = "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "1e55625ba95167e20d554501565f80d80aacee0d77ffd18ca90a1d417539682e"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "f2de322939dd7bff3707813db4c55c262bc42e44aea496c56b54a92a7ac6eca0"
+
+[[files]]
+file = "config/physicsmod/physics_animations_client_config.json"
+hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
+
+[[files]]
+file = "config/physicsmod/physics_blocks_client_config.json"
+hash = "2107f09f026dbf1630c3ec89aa0bfa9c2955f10a67eb1e2edb9478ca65a2719a"
+
+[[files]]
+file = "config/physicsmod/physics_client_config.json"
+hash = "b9cebb3dac27e4e6ea2753b565922e2c78c36aac3c7e14ac0ed573f6054164ec"
+
+[[files]]
+file = "config/physicsmod/physics_cloth_config.json"
+hash = "c004242898b912a2ad1a836a4e017d921c1e8660180565ce56dc4cadc027e939"
+
+[[files]]
+file = "config/physicsmod/physics_mobs_client_config.json"
+hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
+
+[[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "1afde48eff108eb21adb246de5d44ef6ced16862cca62cf0123c059a9934c7cc"
+
+[[files]]
+file = "config/physicsmod/physics_vines_client_config.json"
+hash = "da580a7ac5018190402271f6c6d1f061c67d56ae01eaed41494636465fb2a547"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d3bf7ece2417a62d421c471b32a52d0b08c4509b6d7d34589264cbc06998edc3"
 metafile = true
@@ -18,12 +134,20 @@ file = "mods/Bookshelf-Forge-1.20.1-20.2.15.jar"
 hash = "7980d4a0beed1dcd2c283cf65f3c93f6b0085833f3ac490014979c95f1dfaf67"
 
 [[files]]
+file = "mods/BorderlessWindow-1.20-1.6.0.jar"
+hash = "43a317d85e7e40cea296ad1fe2d32f433f0e735bdb81b136f6f07d379039c3a9"
+
+[[files]]
 file = "mods/Chunky-1.3.146.jar"
 hash = "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141"
 
 [[files]]
 file = "mods/Clumps-forge-1.20.1-12.0.0.4.jar"
 hash = "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a"
+
+[[files]]
+file = "mods/ColdSweat-2.4.jar"
+hash = "abb3d5006d12d5621ede97eed161dad34725302aaba33f57eee612b4c5d5e4cf"
 
 [[files]]
 file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
@@ -98,10 +222,6 @@ file = "mods/Tips-Forge-1.20.1-12.1.9.jar"
 hash = "f7021a7b68ac563210ff9e8fa33cf3b1828fa55f2dae5c769f48b1cb8feb7e80"
 
 [[files]]
-file = "mods/ToughAsNails-forge-1.20.1-9.2.0.171.jar"
-hash = "78e7a0932395a2d8550d422e1ed86352edd8fa5d693711c1366eb60abfae0e7e"
-
-[[files]]
 file = "mods/TravelersTitles-1.20-Forge-4.0.2.jar"
 hash = "e72bcce5e31ab2d5f09eff53697969b32e56c35801b3014e03d558b442b9d38b"
 
@@ -129,7 +249,7 @@ hash = "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "3f99e6e5ed46d923a8e96b091f9a65fb69c8747d5713f0aaed155b1739f49ada"
+hash = "dbc566b4ae7ea0bc4b947bea4e8dd437f0520edb4065326c3f66e68b45e204f1"
 metafile = true
 
 [[files]]
@@ -228,6 +348,11 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
+file = "mods/cold-sweat.pw.toml"
+hash = "4641bd7d05c4b603d6975d406f953814e7230c5c590c2009944054f69fac2ef3"
+metafile = true
+
+[[files]]
 file = "mods/collective-1.20.1-8.20.jar"
 hash = "1bb1a7e34590f40417909eb37cbe5874da4e7c01d99adc0578c562880460b0aa"
 
@@ -256,7 +381,7 @@ hash = "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c"
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6d64af0a128433e09ca9655426c5263831df55c24739c73c803b7e6b83ab0c7f"
+hash = "96dd8c00ed4bc2a921cad2897280a6a60fa7e58f0884229a5cc89fcb386836fe"
 metafile = true
 
 [[files]]
@@ -390,7 +515,7 @@ hash = "1d1e1461155f5a0de514f03e7fa2e7d4b0d1bd1833b0608706fe4cf38aec5178"
 
 [[files]]
 file = "mods/fragmentum.pw.toml"
-hash = "fe1eedd3c482fd62bd9a9186e317ecb53faf115885894d484b3d42b7575836d0"
+hash = "3e687e559a74799ce917a82aaadf6b191c9bbe63f2ae3f48f7adb0c64aa4f3b7"
 metafile = true
 
 [[files]]
@@ -450,10 +575,6 @@ hash = "bc4c7d42fd94d57b020a43dbb3aa3caaa8395c77bd872f252a8302a39b2256a9"
 metafile = true
 
 [[files]]
-file = "mods/lootbeams-1.20.1-1.2.6.jar"
-hash = "4660197524c9198ca93b20999204881a007df452e3bd2151358ea6b844e86b3f"
-
-[[files]]
 file = "mods/lootr-forge-1.20-0.7.35.94.jar"
 hash = "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51"
 
@@ -469,6 +590,15 @@ hash = "dc5fd7883dabcdaf3bf5ba02d8f20f2974df20edc6ce7a05e788d998fd3ef152"
 [[files]]
 file = "mods/lucent.pw.toml"
 hash = "2a25158198d33e13a0f0a79126ac9dc220793a16cf43e3688da290a0d6266689"
+metafile = true
+
+[[files]]
+file = "mods/mcef-forge-2.1.6-1.20.1.jar"
+hash = "5c462342264ac89597891d5d4bcdf6b8134ce4cc5dd97894dbd87ecc197f0cb3"
+
+[[files]]
+file = "mods/mcef.pw.toml"
+hash = "e54c6dc1b57c90006e8240f45998953f28ae53769c4c2682b7f341f75f1a0b52"
 metafile = true
 
 [[files]]
@@ -622,6 +752,10 @@ hash = "5ecc6535596b5954f6293224be6b35805c64f4d4aedc2b9e32d9508dd529cabd"
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
 metafile = true
+
+[[files]]
+file = "mods/worldedit-mod-7.2.15.jar"
+hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
