@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/coldsweat/client.toml"
+hash = "46054e04a8f044e6beaf3dc61cb3c332ebc5ea5802e90d6b447e0df353a18002"
+
+[[files]]
+file = "config/coldsweat/disabled_mods.txt"
+hash = "ba113e5910eb54f230affbbf638aee153b3d3b0d4d920f6df44d309b57fdc36a"
+
+[[files]]
+file = "config/coldsweat/entity.toml"
+hash = "e70e4556f6278c69b62d851e38e367b369dfc518bcc18f9975882d2ab1805703"
+
+[[files]]
+file = "config/coldsweat/item.toml"
+hash = "ee83fa75bcfd385178c670a93aa15c9be320f9e5e5622b8832ddb0ccbfcefd4b"
+
+[[files]]
+file = "config/coldsweat/main.toml"
+hash = "1ac58a73a27ce89bc0b97a148941ba5532d5c8e2f733c1b24b6b40a8743c04e9"
+
+[[files]]
+file = "config/coldsweat/world.toml"
+hash = "8c326279145594f7a2bfa493169fc880b2aa1c2f06294705f5e880f45a86379c"
+
+[[files]]
 file = "config/fancymenu/assets/buttons/clasificaciones_hover.png"
 hash = "949d22589a5e55171e11dd8d90018362b71fc3f91d2d8b2ee4d15e0832bece1d"
 
@@ -58,7 +82,7 @@ hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
 
 [[files]]
 file = "config/fancymenu/customization/menu_screen.txt"
-hash = "ae5b563376227ca40a19d7ed3550cbba9ba08491a36ef4e451147a27cd610ec3"
+hash = "dee50f1d7792dc3b072388fa0e215e8ccd75223187b4de6173b964f13b6084a5"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -74,7 +98,7 @@ hash = "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "1e55625ba95167e20d554501565f80d80aacee0d77ffd18ca90a1d417539682e"
+hash = "5f9ff772228135fe6d8e56c5ece5a7bbacd04f1c46d489b92a14034ccbe59798"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -86,7 +110,7 @@ hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "f2de322939dd7bff3707813db4c55c262bc42e44aea496c56b54a92a7ac6eca0"
+hash = "058ce4eed0130e1e5f245b760c539ba836d4a2e14cc3adea9f2e5d4b66b08128"
 
 [[files]]
 file = "config/physicsmod/physics_animations_client_config.json"
