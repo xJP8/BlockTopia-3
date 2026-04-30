@@ -1,12 +1,12 @@
 name = "Block Topia 3"
 author = "Pichon_8"
-version = "1.1.1"
+version = "1.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "243d4d3074258ffa9de91ba1a21d779aef7023c674f82f8b0fb20d6aa89e0784"
+hash = "58df35749734b5cea942230dbd9eb5050c5d849d6604f35fac4dff9efd344be6"
 
 [versions]
 forge = "47.4.20"
