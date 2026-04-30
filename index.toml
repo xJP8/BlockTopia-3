@@ -546,3 +546,7 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "update.bat"
+hash = "35c031cf4c3c3a5a8a840e41a1abb603d7e981ca9103e239fa947b632baad896"
